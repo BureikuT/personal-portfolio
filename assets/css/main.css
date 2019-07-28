@@ -2042,7 +2042,13 @@ background-color: rgba(0,0,0,0.9)
 .fullModal {
 	margin-top: 5%;
     width: 100%;
-    height: 85%;
+    height: 72%;
+}
+
+.fullAppModal {
+	margin-top: 5%;
+    width: 55%;
+    height: 72%;
 }
 .modal {
   position: fixed;
